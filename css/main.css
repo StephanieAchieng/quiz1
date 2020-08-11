@@ -1,0 +1,19 @@
+body{
+	background-color:pink;
+	
+}
+
+
+h1{
+	color:turquoise;
+	text-align: center;
+	font-size: 28px serif;
+}
+p{
+	font-family: Arial;
+	font-size: 18px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: purple;
+
+}
